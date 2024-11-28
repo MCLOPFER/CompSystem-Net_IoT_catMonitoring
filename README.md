@@ -3,7 +3,7 @@
 </p>
 
 # Kitten Monitor
-#### Student Name: *MariCruz Lopez*   Student ID: *20108907*
+#### Student Name: *MariCruz Lopez*  -  Student ID: *20108907*
 
 ## Problem
 I have recently got 3 kittens and they are wreaking havoc in my house while I am not there.
