@@ -1,0 +1,28 @@
+<!doctype html>
+
+<head>
+    <title>Cat monitor output</title>
+    <link href="https://mattduck.github.io/generic-css/css/generic-light.min.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+    <h1>Before Alarm</h1>
+
+    <h2>Before Pictures</h2>
+    <img src="{{ before_image_0 }}" alt="Before Alarm image 0"">
+    <img src="{{ before_image_1 }}" alt="Before Alarm image 1"">
+    <h2>Before Video</h2>
+    <video width="640" height="480" controls>
+        <source src="{{ before_video }}" type="video/mp4">
+    </video>
+
+    <h1>After Alarm</h1>
+
+    <h2>After Pictures</h2>
+    <img src="{{ after_image_0 }}" alt="After Alarm image 0"">
+    <img src="{{ after_image_1 }}" alt="After Alarm image 1"">
+    <h2>After Video</h2>
+    <video width="640" height="480" controls>
+        <source src="{{ after_video }}" type="video/mp4">
+    </video>
+    </html>
