@@ -64,12 +64,15 @@ Rasberry Pi 2(remote):
 The PIR sensor can be tricky to set up, but I found an excelent guide [here](https://randomnerdtutorials.com/raspberry-pi-detect-motion-pir-python/#:~:text=GND%2C%20and%20Data.-,Wiring%20a%20PIR%20Motion%20Sensor%20to%20the%20Raspberry%20Pi,at%20the%20Raspberry%20Pi%20pinout).)  
 
 My Monitor Pi setup:
+<p align="left">
+  <img src="images/monitor_pi_set_up.jpg" width="500" height="500" />
+</p>
 
-<img src="readme_pics/monitor_pi_set_up.jpg" width="500" height="500" />
 
 My Remote Pi setup is just a Pi with a sensehat attached:
-
-<img src="readme_pics/incredibly_bad_picture.jpg" width="400" height="500" />
+<p align="left">
+  <img src="images/incredibly_bad_picture.jpg" width="500" height="500" />
+</p>
 
 ## Software Installation
 To install this project you will need to clone this repository on two seperate Rasberry Pi's
