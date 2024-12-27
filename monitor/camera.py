@@ -14,7 +14,6 @@ from time import sleep
 class camera:
 
     def __init__(self):
-        self.
         # Single reusable camera instance 
         self.camera = Picamera2()
         pass
