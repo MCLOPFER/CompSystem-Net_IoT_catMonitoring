@@ -1,0 +1,7 @@
+Flask==3.1.0
+Flask_Cors==5.0.0
+gpiozero==2.0.1
+opencv_python==4.10.0.84
+paho_mqtt==2.1.0
+picamera2==0.3.23
+Requests==2.32.3
